@@ -1,0 +1,10 @@
+Descriptive Statistics ( ເລກສະຖິຕິເຊີງພັນລະນາ ) is data analytics technical by data summary in an easy to understand  format,
+so we using various data sections of Statistics to indicate general characteristics of the data, so consisting of 3 things :
+
+1. Finding the median value from available data ( Measures of central Tendency )
+    
+    there're 3 numbers to Find the middle value :
+    
+    + Mean value is Finding to Average of the data.
+    + Median value is standard or middle value of the data.
+    + Mode value is Moderate value of the data.
