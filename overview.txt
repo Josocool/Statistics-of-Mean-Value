@@ -8,3 +8,11 @@ so we using various data sections of Statistics to indicate general characterist
     + Mean value is Finding to Average of the data.
     + Median value is standard or middle value of the data.
     + Mode value is Moderate value of the data.
+
+
+2. ການຫາ Variance & Standard Deviation ປະກອບມີດັ່ງນີ້ :
+
+    + Variance ຫຼື ຄວາມແປປວນ ຄື : ການຫາຕົວຊີ້ວັດທີ່ບວກວ່າ ຄ່າຂໍ້ມູນຂອງແຕ່ລະຊຸດກະຈາຍຕົວອອກຈາກ ຄ່າສະເລ່ຍ (Mean) ຫຼາຍນ້ອຍສ່ຳໃດ ?
+    + Standard Deviation ຫຼື ຄ່າບຽງເບນຈາກຄ່າມາດຕະຖານ ຄື : ຄ່າທີ່ໃຊ້ວັດການກະຈາຍຂອງຂໍ້ມູນ ແບບດຽວກັບ Variance ແຕ່ວ່າແບບ Standard Deviation ຈະມີຄ່າທີໜ່ວຍດຽວກັບຂໍ້ມູນຕົ້ນສະບັບ
+
+    
